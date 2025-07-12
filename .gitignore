@@ -1,0 +1,23 @@
+# Jupyter Notebook auto-saved backups
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+.env/
+
+# Model files (if you save trained models, ignore those)
+*.pkl
+*.h5
+*.joblib
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if you later use VS Code)
+.vscode/
